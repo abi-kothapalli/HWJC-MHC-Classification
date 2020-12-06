@@ -7,7 +7,7 @@ All code was developed in macOS using Python 3.6.5. For all other information re
 
 ## Data
 
-The cell features used for this project can be found in data/cell_data.csv. These features were computed using images collected from [1]. Further details regarding the process used to collect the data can be found in the paper. 
+The cell features used for this project can be found in data/cell_data.csv. These features were computed using images collected from [[1]]. Further details regarding the process used to collect the data can be found in the paper. 
 
 [1]: https://github.com/AbihithK/HWJC_MHC_Classification/blob/master/README.md#references
 
