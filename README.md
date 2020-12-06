@@ -9,7 +9,6 @@ All code was developed in macOS using Python 3.6.5. For all other information re
 
 The cell features used for this project can be found in data/cell_data.csv. These features were computed using images collected from [[1]]. Further details regarding the process used to collect the data can be found in the paper. 
 
-[1]: https://github.com/AbihithK/HWJC_MHC_Classification/blob/master/README.md#references
 
 ## Usage
 
@@ -125,4 +124,4 @@ Feel free to contact abihith.kothapalli@gmail.com if you have any questions or p
 
 ## References
 
-<a id="1">[1]</a> Mellott AJ, Devarajan K, Shinogle HE, Moore DS, Talata Z, Laurence JS, et al. Nonviral Reprogramming of Human Wharton's Jelly Cells Reveals Differences Between ATOH1 Homologues. Tissue Eng Part A. 2015;21(11-12):1795-809. Epub 2015/03/12. doi: 10.1089/ten.TEA.2014.0340. PubMed PMID: 25760435; PubMed Central PMCID: PMCPMC4449705.
+<a id="1">[[1]]</a> Mellott AJ, Devarajan K, Shinogle HE, Moore DS, Talata Z, Laurence JS, et al. Nonviral Reprogramming of Human Wharton's Jelly Cells Reveals Differences Between ATOH1 Homologues. Tissue Eng Part A. 2015;21(11-12):1795-809. Epub 2015/03/12. doi: 10.1089/ten.TEA.2014.0340. PubMed PMID: 25760435; PubMed Central PMCID: PMCPMC4449705.
