@@ -1,9 +1,12 @@
 # Supervised machine learning for automated classification of human Wharton’s Jelly cells and mechanosensory hair cells
 
-Code accompanying the paper "Supervised machine learning for automated classification of human Wharton’s Jelly cells and mechanosensory hair cells"
+Code accompanying the paper "Supervised machine learning for automated classification of human Wharton’s Jelly cells and mechanosensory hair cells."
 
 All code was developed in macOS using Python 3.6.5. For all other information regarding versions of required packages, check the “requirements.txt” file.
 
+## Citation
+
+	Kothapalli A, Staecker H, Mellott AJ (2021) Supervised machine learning for automated classification of human Wharton’s Jelly cells and mechanosensory hair cells. PLoS ONE 16(1): e0245234. https://doi.org/10.1371/journal.pone.0245234
 
 ## Data
 
