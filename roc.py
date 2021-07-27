@@ -36,6 +36,7 @@ def plot(args):
     models = []
 
     for file in files:
+        
         name = file.split("_")
 
         if name[len(name)-1] == "predictions.csv":

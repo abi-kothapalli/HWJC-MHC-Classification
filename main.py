@@ -27,6 +27,7 @@ def main():
         evaluator = Evaluator(config)
 
         evaluator.evaluate_pretrianed(model, data_loader, target_feature)
+        
         exit(0)
 
     if config.load_checkpoint:
